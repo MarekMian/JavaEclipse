@@ -1,5 +1,5 @@
 open java eclipse
-open space.jave in java eclipse
+open space.java(located in src folder) in java eclipse
 click run
 use up, down and enter to navigate menu (it turned out only classic mode was needed)
 use left right and space to play
