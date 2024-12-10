@@ -1,1 +1,1 @@
-Projekt ze studiów polegający na rekreacji gry Space Invaders w Java Eclipse
+Odtworzenie gry Space Invaders w Java Eclipse. Ralizacja w ramach projektu na studiach.
